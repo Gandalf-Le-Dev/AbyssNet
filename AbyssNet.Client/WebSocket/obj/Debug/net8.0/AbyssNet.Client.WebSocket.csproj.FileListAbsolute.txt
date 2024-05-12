@@ -1,0 +1,15 @@
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/WebSocket/bin/Debug/net8.0/AbyssNet.Client.WebSocket.deps.json
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/WebSocket/bin/Debug/net8.0/AbyssNet.Client.WebSocket.dll
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/WebSocket/bin/Debug/net8.0/AbyssNet.Client.WebSocket.pdb
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/WebSocket/obj/Debug/net8.0/AbyssNet.Client.WebSocket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/WebSocket/obj/Debug/net8.0/AbyssNet.Client.WebSocket.AssemblyInfoInputs.cache
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/WebSocket/obj/Debug/net8.0/AbyssNet.Client.WebSocket.AssemblyInfo.cs
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/WebSocket/obj/Debug/net8.0/AbyssNet.Client.WebSocket.csproj.CoreCompileInputs.cache
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/WebSocket/obj/Debug/net8.0/AbyssNet.Client.WebSocket.dll
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/WebSocket/obj/Debug/net8.0/refint/AbyssNet.Client.WebSocket.dll
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/WebSocket/obj/Debug/net8.0/AbyssNet.Client.WebSocket.pdb
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/WebSocket/obj/Debug/net8.0/ref/AbyssNet.Client.WebSocket.dll
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/WebSocket/bin/Debug/net8.0/AbyssNet.Client.Common.dll
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/WebSocket/bin/Debug/net8.0/AbyssNet.Client.Common.pdb
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/WebSocket/obj/Debug/net8.0/AbyssNet.Client.WebSocket.csproj.AssemblyReference.cache
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/WebSocket/obj/Debug/net8.0/AbyssNet.9EFF4B1F.Up2Date

@@ -1,0 +1,11 @@
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/Common/bin/Debug/net8.0/AbyssNet.Client.Common.deps.json
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/Common/bin/Debug/net8.0/AbyssNet.Client.Common.dll
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/Common/bin/Debug/net8.0/AbyssNet.Client.Common.pdb
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/Common/obj/Debug/net8.0/AbyssNet.Client.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/Common/obj/Debug/net8.0/AbyssNet.Client.Common.AssemblyInfoInputs.cache
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/Common/obj/Debug/net8.0/AbyssNet.Client.Common.AssemblyInfo.cs
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/Common/obj/Debug/net8.0/AbyssNet.Client.Common.csproj.CoreCompileInputs.cache
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/Common/obj/Debug/net8.0/AbyssNet.Client.Common.dll
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/Common/obj/Debug/net8.0/refint/AbyssNet.Client.Common.dll
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/Common/obj/Debug/net8.0/AbyssNet.Client.Common.pdb
+/Users/gandalfledev/Documents/github.com/Gandalf-Le-Dev/AbyssNet/AbyssNet.Client/Common/obj/Debug/net8.0/ref/AbyssNet.Client.Common.dll

@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AbyssNet.Client", "AbyssNet.Client", "{C6845C59-48A8-4791-81A5-6B99499AAB4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbyssNet.Client.WebSocket", "AbyssNet.Client\WebSocket\AbyssNet.Client.WebSocket.csproj", "{8AA2A662-809D-480D-A3B3-C7A00223AA46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientTester", "AbyssNet.Client\ClientTester\ClientTester.csproj", "{1FCBE018-8539-42B4-B924-422D46FC39CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbyssNet.Client.Common", "AbyssNet.Client\Common\AbyssNet.Client.Common.csproj", "{E8321157-075A-4658-BF97-219A5B0D9D4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AA2A662-809D-480D-A3B3-C7A00223AA46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA2A662-809D-480D-A3B3-C7A00223AA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA2A662-809D-480D-A3B3-C7A00223AA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA2A662-809D-480D-A3B3-C7A00223AA46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FCBE018-8539-42B4-B924-422D46FC39CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FCBE018-8539-42B4-B924-422D46FC39CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FCBE018-8539-42B4-B924-422D46FC39CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FCBE018-8539-42B4-B924-422D46FC39CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8321157-075A-4658-BF97-219A5B0D9D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8321157-075A-4658-BF97-219A5B0D9D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8321157-075A-4658-BF97-219A5B0D9D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8321157-075A-4658-BF97-219A5B0D9D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8AA2A662-809D-480D-A3B3-C7A00223AA46} = {C6845C59-48A8-4791-81A5-6B99499AAB4A}
+		{1FCBE018-8539-42B4-B924-422D46FC39CA} = {C6845C59-48A8-4791-81A5-6B99499AAB4A}
+		{E8321157-075A-4658-BF97-219A5B0D9D4A} = {C6845C59-48A8-4791-81A5-6B99499AAB4A}
+	EndGlobalSection
+EndGlobal

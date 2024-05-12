@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AbyssNet.Client.WebSocket/1.0.0": {
+        "dependencies": {
+          "AbyssNet.Client.Common": "1.0.0"
+        },
+        "runtime": {
+          "AbyssNet.Client.WebSocket.dll": {}
+        }
+      },
+      "AbyssNet.Client.Common/1.0.0": {
+        "runtime": {
+          "AbyssNet.Client.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbyssNet.Client.WebSocket/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbyssNet.Client.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
